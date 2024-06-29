@@ -16,8 +16,10 @@ Product Management:
 Add Products: Administrators can add new products to the inventory by entering details such as product code, name, price, and discount.
 Modify Products: Existing product details can be updated to keep the inventory accurate and current.
 Delete Products: Products can be removed from the inventory when they are no longer available, ensuring that the product list remains up-to-date.
-Customer Features:
+<br>
 
+Customer Features:
+<hr>
 View Products: Customers can browse the list of available products, including details like product code, name, price, and discount.
 Purchase Products: Customers can select products, specify quantities, and generate a detailed receipt of their purchases.
 Receipt Generation: The software calculates the total amount, including discounts, and provides a clear and concise receipt for the customer.
